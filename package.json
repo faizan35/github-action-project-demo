@@ -1,0 +1,11 @@
+{
+    "name": "simple-ci-project",
+    "version": "1.0.0",
+    "description": "A simple Node.js project to demonstrate CI workflow",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Running tests...\" && exit 0"
+    },
+    "author": "Your Name",
+    "license": "MIT"
+}
